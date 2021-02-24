@@ -1,0 +1,5 @@
+﻿https://www.rust-lang.org
+https://www.rust-lang.org/learn
+
+cargo new prg-name --bin
+cargo run
